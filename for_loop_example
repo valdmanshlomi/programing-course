@@ -1,0 +1,3 @@
+prices = [100,105,110,120]
+for price in prices:
+    print("Price:", price)

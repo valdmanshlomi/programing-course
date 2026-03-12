@@ -1,0 +1,5 @@
+prices = [100, 105, 110, 120]
+
+print("First price:", prices[0])
+print("Second price:", prices[1])
+print("Last price:", prices[3])
